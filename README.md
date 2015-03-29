@@ -3,14 +3,13 @@
 
 <ul>
 <li><strong>EXCEPTIONS</strong></li>	
-Tests an item against an array and returns the ID number if the item is contained in the array 
-and throws an exception if the item is not found.
+Tests an item against an array. It returns the ID number if the item is contained in the array and throws an exception if the item is not found.
 
 <li><strong>MATRIX CALCULATOR</strong></li>
 A calculator for square matrices that can add or multiply two matrices to form a 3rd matrix, multiply a matrix by a scalar, or transpose a matrix.
 
 <li><strong>POLYNOMIAL CALCULATOR</strong></li>
-A single-variable non-negative exponent polynomial calculator. It gets the highest degree of the polynomials, the coefficient for, can change the coefficient of a term, or can multiply a polynomial by a scalar.          
+A single-variable non-negative-exponent polynomial calculator. It can get the highest degree of the polynomial, the coefficient for a term, can change the coefficient of a term, or can multiply a polynomial by a scalar.          
 
 <li><strong>PROSE TEXT</strong></li>
 Takes user input as a string of raw English prose and returns a list of each unique word and the count of each word.
